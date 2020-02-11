@@ -1,7 +1,7 @@
 <?php session_start(); ?>
 <?php include 'defines.php'; ?>
 <?php
-/*********** VALIDATE ALL VARIABLES ************/
+
 foreach($_POST as $p) 
   if(empty($p) || !isset($p))
     respond("error","empty");
