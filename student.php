@@ -60,7 +60,7 @@
       <input type="text" class="form-control" name="roll" placeholder="Eg - 262/CO/12">
       <span class="help-block">NNN/DD/YY where N : Number, D : Department , Y : Year</span>
     </div>
-    <button class="btn btn-primary">Get Results</button>
+    <button class="btn btn-primary">Get Attedance</button>
   </form>
   </div>
   </div>
