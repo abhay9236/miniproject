@@ -16,7 +16,7 @@
      padding:10px;
      float:left;cursor:pointer;
      position:relative;}
-.class:hover{box-shadow:0px 0px 10px black;} 
+.class:hover{box-shadow:0px 0px 10px brown;} 
 .class:hover .delete-class-warning{display:block !important;
     position:absolute;
     top:-15px;
